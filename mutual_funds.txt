@@ -1,0 +1,22 @@
+
+Total Bond Market Index Admiral Shares
+VBTLX
+11.61
+Intermediate-Term Investment-Grade
+VFICX
+10.64
+Mid-Cap Index Admiral Shares
+VIMAX
+230.09
+Municipal Money Market
+VMSXX
+1.00
+Total Stock Market Index Admiral Shares
+VTSAX
+86.49
+International Growth
+VWIGX
+44.20
+U.S. Growth
+VWUSX
+62.41
